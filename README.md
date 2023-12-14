@@ -4,4 +4,4 @@ Local aonde se concentra as principais redes usadas por mim, usei uma forma de l
 
 [Teste em tempo real](https://dev-link-three.vercel.app/)
 
-![imagem](img/img_da_pag.png)
+![imagem](assets/img_da_pag.png)
