@@ -4,4 +4,8 @@ Local aonde se concentra as principais redes usadas por mim, usei uma forma de l
 
 [Teste em tempo real](https://dev-link-three.vercel.app/)
 
-![imagem](assets/img_da_pag.png)
+# Tema claro
+![imagem](assets/imgSite.png)
+
+# Tema escuro
+![imagem](assets/sitetema.png)
